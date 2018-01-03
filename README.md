@@ -1,4 +1,4 @@
 # SHProfile
 Sample profile design.
 
-<img src="/Screenshot/sample.gif" />
+<img src="/SHProfile/Screenshot/sample.gif" />
